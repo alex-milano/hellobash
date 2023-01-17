@@ -1,2 +1,2 @@
 # hellobash
-Scripting Bash Kick Off
+Scripting in Bash Kick Off
